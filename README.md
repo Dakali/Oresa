@@ -1,2 +1,2 @@
 # Oresa
-Simple management soft
+A Simple java SE management soft
